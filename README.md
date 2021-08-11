@@ -1,4 +1,4 @@
-# Hi there 👋🏻
+# Hi there! 👋🏻
 
 ### I'm a Front-End Developer based in Barcelona ###
 
