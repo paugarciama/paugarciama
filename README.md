@@ -3,7 +3,7 @@
 ### I'm a Software Developer based in Barcelona ###
 
 ```
-Java | Kotlin | Spring | TypeScript | Vue | PHP | Laravel | SQL | Docker | AWS
+Java | Kotlin | Spring | TypeScript | Vue | PHP | Laravel | SQL | Kafka | Docker | AWS
 ```
 
 - 👨🏻‍🔧 I'm currently working at Holaluz as a Software Developer.
